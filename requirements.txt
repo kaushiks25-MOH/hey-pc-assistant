@@ -1,0 +1,4 @@
+speechrecognition
+pyttsx3
+# porcupine or equivalent wake word library (not configured)
+# pystray for system tray icon (not fully implemented)
